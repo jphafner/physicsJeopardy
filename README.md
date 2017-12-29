@@ -15,6 +15,12 @@ Final Jeopardy has a single question and answer
 
 Jeopardy! and Double Jeopardy! have one and two Daily Doubles, respectively.
 
+## Post reflection rules
+
+Only one team is allowed to answer
+If correct, + 100% of points
+If wrong, - 50% of points
+
 
 ## Why Use Jeopardy
 
