@@ -21,6 +21,12 @@ Only one team is allowed to answer
 If correct, + 100% of points
 If wrong, - 50% of points
 
+https://en.wikipedia.org/wiki/Loss_aversion
+
+## Example question
+A: this is the speedomerer reading of a car that passws 3 marsker on the interstate in 24 minutes
+Q: what is 73 mph?
+
 
 ## Why Use Jeopardy
 
